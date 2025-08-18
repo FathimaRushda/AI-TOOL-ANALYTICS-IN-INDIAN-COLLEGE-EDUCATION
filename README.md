@@ -44,7 +44,10 @@ The Tableau dashboard includes:
 - **State-wise awareness map** – showing how AI familiarity varies across regions  
 - **AI usage by year of study** – track engagement changes from first to final year  
 - **Internet access and AI usage** – compare how connectivity impacts adoption  
-- **Preferred AI tools distribution** – identify the most popular platforms among students  
+- **Preferred AI tools distribution** – identify the most popular platforms among students
+
+<img width="1641" height="844" alt="Image" src="https://github.com/user-attachments/assets/ffb8a656-1c8b-489f-92ec-d63f3fb663e2" />
+<img width="1641" height="844" alt="Image" src="https://github.com/user-attachments/assets/99569481-a063-454b-87c2-f4803c72640b" />
    
 ---
 
